@@ -1,4 +1,4 @@
-![alt text]https://fotovssylku.ru/i/Bez-nazvania2-Vosstanovlenny-20261015075710.uPH0c
+![alt text]
 
 WIP
 
