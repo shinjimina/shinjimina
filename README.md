@@ -1,4 +1,4 @@
-![image alt](https://ibb.co/pBSXx9yc)
+![image alt](https://github.com/shinjimina/wawa/blob/main/Bez_nazvania2_Vosstanovlenny_20261015075710.png?raw=true)
 
 WIP
 
