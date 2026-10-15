@@ -1,4 +1,4 @@
-![image alt](https://ibb.co/pBSXx9yc)
+![image alt](./https://ibb.co/pBSXx9yc)
 
 WIP
 
