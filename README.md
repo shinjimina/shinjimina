@@ -1,4 +1,6 @@
-## Hi there 👋
+![imagealt]https://fotovssylku.ru/i/Bez-nazvania2-Vosstanovlenny-20261015075710.uPH0c
+
+WIP
 
 <!--
 **shinjimina/shinjimina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
