@@ -1,4 +1,4 @@
-![image alt](https://fotovssylku.ru/i/Bez-nazvania2-vosstanovlenny-20261015075710.uPH0c)
+![image alt](https://ibb.co/pBSXx9yc)
 
 WIP
 
