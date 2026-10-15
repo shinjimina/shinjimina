@@ -1,7 +1,10 @@
+<div align="center"> 
+
+ ![Static Badge](https://img.shields.io/badge/(%C2%AC%60%E2%80%B8%C2%B4%C2%AC)-%F0%90%99%9A-wawa?style=plastic&labelColor=17113d&color=ff005e)
 
 ![image alt](https://github.com/shinjimina/wawa/blob/main/Bez_nazvania2_Vosstanovlenny_20261015075710.png?raw=true)
 
- ㅤ ㅤ    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gk5c3qtqvyd3eqi35jtw6erbju&cover_image=true&theme=natemoo-re&show_offline=false&background_color=532849&interchange=true&profanity=false&hide_remaster=false&bar_color=d02f67&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  wip
+ ㅤ ㅤ    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gk5c3qtqvyd3eqi35jtw6erbju&cover_image=true&theme=natemoo-re&show_offline=false&background_color=532849&interchange=true&profanity=false&hide_remaster=false&bar_color=d02f67&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  Wip
 
 <!--
 **shinjimina/shinjimina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
